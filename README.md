@@ -12,8 +12,13 @@ vim <file_name>
 # hit ESC and type  :wq!" hit enter now
 ```
 ### some short chuts
+```
 shift g - go to end 
 yy to copy lines in esc mode
 p to paste
 dd to delete
 set nu to number lines 
+```
+
+# Other Links 
+https://sites.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
